@@ -5,7 +5,7 @@ Online Medicine Shop Project in JSP Mysql. online Pharmacy  shop project in JSP 
 Project Module:- Online Medicine Shop Project in JSP Mysql<br><br>
  ```bash 
 2 Login Page For Vendor login, Customer login
-Register Page<
+Register Page
 Customer Homepage
 Vendor Homepage
 Buy Page
@@ -17,15 +17,15 @@ Purchase Medicine
 View Order
  ```
 
-Technology Used in the project - Online Medicine Shop Project in JSP Mysql
+Technology Used in the project - Online Medicine Shop Project in JSP Mysql<br>
 
- ```bash
-HTML : Page layout has been designed in HTML
-CSS : CSS has been used for all the desigining part
-JavaScript : All the validation task and animations has been developed by JavaScript
-JSP : All the front end logic has been written in JSP
-Java : All the bussiness logic has been written in Java
-MySQL : MySQL database has been used as database for the project
-Tomcat : Project will be run over the Tomcat server
-Supported Operating System - Online Medicine Shop Project in JSP Mysql
- ```
+
+HTML : Page layout has been designed in HTML<br>
+CSS : CSS has been used for all the desigining part<br>
+JavaScript : All the validation task and animations has been developed by JavaScript<br>
+JSP : All the front end logic has been written in JSP<br>
+Java : All the bussiness logic has been written in Java<br>
+MySQL : MySQL database has been used as database for the project<br>
+Tomcat : Project will be run over the Tomcat server<br>
+Supported Operating System - Online Medicine Shop Project in JSP Mysql<br>
+ 
